@@ -1,0 +1,13 @@
+G:\ws-VS2019\Jogo da Forca\Jogo da Forca\bin\Debug\netcoreapp3.1\Jogo da Forca.exe
+G:\ws-VS2019\Jogo da Forca\Jogo da Forca\bin\Debug\netcoreapp3.1\Jogo da Forca.deps.json
+G:\ws-VS2019\Jogo da Forca\Jogo da Forca\bin\Debug\netcoreapp3.1\Jogo da Forca.runtimeconfig.json
+G:\ws-VS2019\Jogo da Forca\Jogo da Forca\bin\Debug\netcoreapp3.1\Jogo da Forca.runtimeconfig.dev.json
+G:\ws-VS2019\Jogo da Forca\Jogo da Forca\bin\Debug\netcoreapp3.1\Jogo da Forca.dll
+G:\ws-VS2019\Jogo da Forca\Jogo da Forca\bin\Debug\netcoreapp3.1\Jogo da Forca.pdb
+G:\ws-VS2019\Jogo da Forca\Jogo da Forca\obj\Debug\netcoreapp3.1\Jogo da Forca.csprojAssemblyReference.cache
+G:\ws-VS2019\Jogo da Forca\Jogo da Forca\obj\Debug\netcoreapp3.1\Jogo da Forca.AssemblyInfoInputs.cache
+G:\ws-VS2019\Jogo da Forca\Jogo da Forca\obj\Debug\netcoreapp3.1\Jogo da Forca.AssemblyInfo.cs
+G:\ws-VS2019\Jogo da Forca\Jogo da Forca\obj\Debug\netcoreapp3.1\Jogo da Forca.csproj.CoreCompileInputs.cache
+G:\ws-VS2019\Jogo da Forca\Jogo da Forca\obj\Debug\netcoreapp3.1\Jogo da Forca.dll
+G:\ws-VS2019\Jogo da Forca\Jogo da Forca\obj\Debug\netcoreapp3.1\Jogo da Forca.pdb
+G:\ws-VS2019\Jogo da Forca\Jogo da Forca\obj\Debug\netcoreapp3.1\Jogo da Forca.genruntimeconfig.cache
